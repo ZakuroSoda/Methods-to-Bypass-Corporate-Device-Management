@@ -22,11 +22,17 @@ In order to bypass certain policies set by an external organisation, or disconne
 
 1. Press the ```Windows Key + L``` to go to the login screen of Windows.
 
-![](https://i.imgur.com/rvLpSsv.jpeg)
+<img style="width:600px" src="https://i.imgur.com/rvLpSsv.jpeg">
 
-2. Hold down the ```Shift``` Key and press ```Restart```
+2. Hold down the ```Shift``` Key and press ```Restart```.
 
 ![](https://www.top-password.com/blog/wp-content/uploads/2016/09/shift-restart.jpg)
+
+3. You will enter the ```Windows Recovery Environment```.
+
+<img style="width:600px" src="https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/images/dep-winre-menu.png?view=windows-11">
+
+4. Click on ```Troubleshoot```, then ```Advanced Options```, then Command Prompt
 
 1. Windows Recovery Env Command Prompt
 2. .\Administrator
