@@ -32,8 +32,10 @@ In order to bypass certain policies set by an external organisation, or disconne
 
 <img style="width:600px" src="https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/images/dep-winre-menu.png?view=windows-11">
 
-4. Click on ```Troubleshoot```, then ```Advanced Options```, then Command Prompt
+Click on ```Troubleshoot```, then ```Advanced Options```, then ```Command Prompt```
 
+<img style="width:600px" src="https://i.imgur.com/G6rG7jv.jpeg">
+<img style="width:600px" src="https://i.imgur.com/RPuox4H.jpeg">
 1. Windows Recovery Env Command Prompt
 2. .\Administrator
 3. Linux Dual Boot
