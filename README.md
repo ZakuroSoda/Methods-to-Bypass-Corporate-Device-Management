@@ -5,6 +5,13 @@
 ![](https://img.shields.io/badge/Created-1%2F12%2F2021-brightgreen)
 ![](https://img.shields.io/badge/Tags-hacking%2C%20computers%2C%20bypass%2C%20windows-blue)
 
+### DISCLAIMER
+DO NOT USE THE INFORMATION PROVIDED HERE TO DO ANYTHING ILLEGAL OR AGAINST YOUR ORGANISATION'S POLICY.
+
+I do not claim responsibility or involvement for anything you break, any trouble you may get into, or any policy(ies) you break by using the information here.
+
+THIS IS STRICTLY FOR EDUCATIONAL PURPOSES AND THE KNOWLEDGE SHOULD NOT BE USED ILLEGALLY OR IN VIOLATION OF POLICIES.
+
 1. Windows Recovery Env Command Prompt
 2. .\Administrator
 3. Linux Dual Boot
