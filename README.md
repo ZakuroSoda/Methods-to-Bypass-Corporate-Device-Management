@@ -12,7 +12,15 @@ I am not responsibility or involvement for anything you break, any trouble you m
 
 THIS IS STRICTLY FOR EDUCATIONAL PURPOSES AND THE KNOWLEDGE SHOULD NOT BE USED ILLEGALLY OR IN VIOLATION OF POLICIES.
 
+## Why?
+
+In order to bypass certain policies set by an external organisation, or disconnect from the organisation when you buy a second-hand laptop, or gain administrator permissions for some project or application you need to install etc. 
+
 ---
+
+## Method 1 - Windows Recovery Environment
+
+1. 
 
 1. Windows Recovery Env Command Prompt
 2. .\Administrator
