@@ -59,10 +59,10 @@ The above steps has replaced the Windows Utility Manager with a copy of Command 
 
 <img style="width:600px" src="https://i.imgur.com/aR5PD78.png">
 
-9. Type in ```net user %USERNAME% %PASSWORD% /add```. This will add a new user account. 
+9. Type in ```net user %USERNAME% %PASSWORD% /add```. <br>This will add a new user account. <br>
 For example, ```net user Tom password123 /add```.
 
-10. Type in ```net localgroup administrators %USERNAME% /add```. This will add the new account created to the administrators. 
+10. Type in ```net localgroup administrators %USERNAME% /add```. <br>This will add the new account created to the administrators. <br>
 For example, ```net localgroup administrators Tom /add```
 
 6. Windows Recovery Env Command Prompt
