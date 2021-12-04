@@ -47,7 +47,23 @@ Go to ```aka.ms/aadrecoverykey``` to find your key. Try the other links shown in
 
 Manually enter your keys and proceed.
 
-5. Command Prompt will open in ```X:\``` Drive. Enter ```move c:\windows\system32\utilman.exe c:\```
+5. Command Prompt will open in ```X:\``` Drive. Key in ```move c:\windows\system32\utilman.exe c:\``` and hit enter.
+
+6. Next, type in ```copy c:\windows\system32\cmd.exe c:\windows\system32\utilman.exe``` and hit enter.
+
+7. Finally, type in ```wpeutil reboot``` and hit enter.
+
+The above steps has replaced the Windows Utility Manager with a copy of Command Prompt.
+
+8. Once your computer fully reboots, click on the Utilities Manager Icon and Command Prompt will open.
+
+<img style="width:600px" src="https://i.imgur.com/aR5PD78.png">
+
+9. Type in ```net user %USERNAME% %PASSWORD% /add```. This will add a new user account. 
+For example, ```net user Tom password123 /add```.
+
+10. Type in ```net localgroup administrators %USERNAME% /add```. This will add the new account created to the administrators. 
+For example, ```net localgroup administrators Tom /add```
 
 6. Windows Recovery Env Command Prompt
 7. .\Administrator
