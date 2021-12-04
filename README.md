@@ -68,8 +68,6 @@ For example, ```net localgroup administrators Tom /add```
 11. Close the Window. Go somewhere else and come back to the Windows login page. Eg. Login to another account and press ```Windows + L```, restart the computer, etc. <br>
 The new user account would have appeared. Login and you have *Local Administrator Permissions*.
 
-6. Windows Recovery Env Command Prompt
-7. .\Administrator
-8. Linux Dual Boot
-
+## Method 2 - Default Windows Administrator Account
+## Method 3 - Booting with Linux on a External Drive
 IN PROGRESS
