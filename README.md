@@ -36,8 +36,21 @@ Click on ```Troubleshoot```, then ```Advanced Options```, then ```Command Prompt
 
 <img style="width:600px" src="https://i.imgur.com/G6rG7jv.jpeg">
 <img style="width:600px" src="https://i.imgur.com/RPuox4H.jpeg">
-1. Windows Recovery Env Command Prompt
-2. .\Administrator
-3. Linux Dual Boot
+
+4. You will be presented with this screen.
+
+<img style="width:600px" src="https://i.imgur.com/E4R5sXf.jpeg"> 
+
+Go to ```aka.ms/aadrecoverykey``` to find your key. Try the other links shown in the picture above to find it. Click on ```Get BitLocker keys```.
+
+<img style="width:600px" src="https://i.imgur.com/ZuAdTVq.jpg">  
+
+Manually enter your keys and proceed.
+
+5. Command Prompt will open in ```X:\``` Drive. Enter ```move c:\windows\system32\utilman.exe c:\```
+
+6. Windows Recovery Env Command Prompt
+7. .\Administrator
+8. Linux Dual Boot
 
 IN PROGRESS
