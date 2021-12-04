@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/DISCLAIMER-DO%20NOT%20USE%20FOR%20ANYTHING%20ILLEGAL%20OR%20AGAINST%20POLICY-red)
 ![](https://img.shields.io/badge/Created-1%2F12%2F2021-brightgreen)
 ![](https://img.shields.io/badge/Tags-hacking%2C%20computers%2C%20bypass%2C%20windows-blue)
+<br>
+![](https://img.shields.io/badge/Status-IN%20PROGRESS-blueviolet)
 
 ### DISCLAIMER
 DO NOT USE THE INFORMATION PROVIDED HERE TO DO ANYTHING ILLEGAL OR AGAINST YOUR ORGANISATION'S POLICY.
