@@ -66,7 +66,8 @@ For example, ```net user Tom password123 /add```.
 For example, ```net localgroup administrators Tom /add```
 
 11. Close the Window. Go somewhere else and come back to the Windows login page. Eg. Login to another account and press ```Windows + L```, restart the computer, etc. <br>
-The new user account would have appeared. Login and you have *Local Administrator Permissions*.
+The new user account would have appeared. <br>
+Login and you have *Local Administrator Permissions*.
 
 ## Method 2 - Default Windows Administrator Account
 ## Method 3 - Booting with Linux on a External Drive
