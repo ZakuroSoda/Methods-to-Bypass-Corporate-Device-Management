@@ -65,7 +65,8 @@ For example, ```net user Tom password123 /add```.
 10. Type in ```net localgroup administrators %USERNAME% /add```. <br>This will add the new account created to the administrators. <br>
 For example, ```net localgroup administrators Tom /add```
 
-11. Close the Window. Go somewhere else and come back to the Windows login page. Eg. Login to another account and press ```Windows + L```, restart the computer, etc. <br>
+11. Close the Window. Go somewhere else and come back to the Windows login page. <br>
+Eg. Login to another account and press ```Windows + L```, restart the computer, etc. <br>
 The new user account would have appeared. <br>
 Login and you have *Local Administrator Permissions*.
 
